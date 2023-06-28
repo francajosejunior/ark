@@ -1,7 +1,7 @@
 import "./styles.css";
 
 document.getElementById("app").innerHTML = `
-<h1>Test!</h1>
+<h1>Test!2</h1>
 <div>
   We use the same configuration as Parcel to bundle this sandbox, you can find more
   info about Parcel 
